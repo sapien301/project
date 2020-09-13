@@ -1,0 +1,37 @@
+body{
+    background-color:lightgray;
+}
+.head{
+    text-align: center;
+
+
+    background-color: ;
+}
+#ka,#st{
+    font-style: italic;
+    font-family:sans-serif ;
+    color: green ;
+    font-size: 40px;
+    
+
+    
+}
+.navi{
+    background-color:rgb(41, 205, 211);
+    height: 40px;
+    justify-content: space-around;
+    align-content: stretch;
+    text-align : center ;
+    }
+
+.navi a{
+    font-size: 25px;
+    padding: 50px;
+    text-decoration: none;
+    font-style: oblique;
+
+}
+
+.navi a:hover{
+    color: brown;
+}
